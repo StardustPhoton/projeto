@@ -10,6 +10,6 @@ int main() {
 
     } while (resposta == 's' || resposta == 'S');
 
-    printf("Obrigado por usar a ferramenta!\n");
+    printf("Obrigado por usar o programa!\n");
     return 0;
 }
