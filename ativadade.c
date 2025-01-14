@@ -2,7 +2,7 @@
 
 int main() {
     int num;
-    printf("Digite um número positivo: ");
+    printf("Esreva um número positivo: ");
     scanf("%d", &num);
 
     while (num <= 0) {
